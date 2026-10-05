@@ -63,3 +63,15 @@ Tech: HTML · CSS · JavaScript
 Building practical websites and applications that solve real problems, while continuously growing as a full-stack developer.
 
 My goal is to become a versatile developer who can take an idea from concept to a working application — from the frontend interface to the backend and database.
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maina01-reaper&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maina01-reaper&layout=compact&hide_border=true" height="165"/>
+</p>
+
+##  Connect With Me
+
+-  GitHub: [@Maina01-reaper](https://github.com/Maina01-reaper)
+-  Email: your-email@example.com
